@@ -1,0 +1,67 @@
+object Form2: TForm2
+  Left = 439
+  Height = 348
+  Top = 420
+  Width = 765
+  Caption = 'Additional Info'
+  ClientHeight = 348
+  ClientWidth = 765
+  LCLVersion = '1.8.0.6'
+  object Memo1: TMemo
+    Left = 1
+    Height = 320
+    Top = 20
+    Width = 249
+    Lines.Strings = (
+      'Memo1'
+    )
+    ScrollBars = ssAutoBoth
+    TabOrder = 0
+  end
+  object Memo2: TMemo
+    Left = 266
+    Height = 321
+    Top = 20
+    Width = 242
+    Lines.Strings = (
+      'Memo2'
+    )
+    ScrollBars = ssAutoBoth
+    TabOrder = 1
+  end
+  object Memo3: TMemo
+    Left = 520
+    Height = 320
+    Top = 20
+    Width = 237
+    Lines.Strings = (
+      'Memo3'
+    )
+    ScrollBars = ssAutoBoth
+    TabOrder = 2
+  end
+  object Label1: TLabel
+    Left = 1
+    Height = 17
+    Top = 3
+    Width = 115
+    Caption = 'Detailed by chars'
+    ParentColor = False
+  end
+  object Label2: TLabel
+    Left = 267
+    Height = 17
+    Top = 3
+    Width = 86
+    Caption = 'Stat for input'
+    ParentColor = False
+  end
+  object Label3: TLabel
+    Left = 522
+    Height = 17
+    Top = 3
+    Width = 95
+    Caption = 'Stat for output'
+    ParentColor = False
+  end
+end

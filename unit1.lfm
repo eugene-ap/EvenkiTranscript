@@ -1,0 +1,71 @@
+object Form1: TForm1
+  Left = 440
+  Height = 221
+  Top = 164
+  Width = 386
+  Caption = 'Evenki Transcriptor'
+  ClientHeight = 221
+  ClientWidth = 386
+  LCLVersion = '1.8.0.6'
+  object Edit1: TEdit
+    Left = 5
+    Height = 27
+    Top = 9
+    Width = 374
+    TabOrder = 0
+    Text = 'Иря̄ктава гаңнанни эргэчӣн дырэмучӣвэ, эхӣлэ сукэт тыкэ̄н эхӣлэ токтоңнонни.'
+  end
+  object Memo1: TMemo
+    Left = 8
+    Height = 59
+    Top = 53
+    Width = 371
+    Lines.Strings = (
+      ''
+    )
+    TabOrder = 1
+  end
+  object Button1: TButton
+    Left = 8
+    Height = 31
+    Top = 133
+    Width = 113
+    Caption = 'Обработка'
+    OnClick = Button1Click
+    TabOrder = 2
+  end
+  object Button2: TButton
+    Left = 144
+    Height = 31
+    Top = 133
+    Width = 111
+    Caption = 'Шрифт'
+    OnClick = Button2Click
+    TabOrder = 3
+  end
+  object Button3: TButton
+    Left = 280
+    Height = 30
+    Top = 133
+    Width = 99
+    Caption = 'Подробно'
+    Enabled = False
+    OnClick = Button3Click
+    TabOrder = 4
+  end
+  object Button4: TButton
+    Left = 144
+    Height = 27
+    Top = 184
+    Width = 111
+    Caption = 'Выход'
+    OnClick = Button4Click
+    TabOrder = 5
+  end
+  object FontDialog1: TFontDialog
+    MinFontSize = 0
+    MaxFontSize = 0
+    left = 8
+    top = 184
+  end
+end

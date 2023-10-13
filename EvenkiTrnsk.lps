@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="5">
+      <Unit0>
+        <Filename Value="EvenkiTrnsk.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="18" Y="18"/>
+        <UsageCount Value="315"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="51"/>
+        <CursorPos X="45" Y="67"/>
+        <UsageCount Value="315"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="unit2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit2"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="7"/>
+        <CursorPos Y="21"/>
+        <UsageCount Value="306"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="EvenkiProc.pas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="464"/>
+        <CursorPos X="48" Y="29"/>
+        <UsageCount Value="157"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="strutilsev.pas"/>
+        <UnitName Value="StrUtilsEv"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="234"/>
+        <CursorPos Y="5"/>
+        <UsageCount Value="157"/>
+        <Loaded Value="True"/>
+      </Unit4>
+    </Units>
+    <JumpHistory Count="17" HistoryIndex="16">
+      <Position1>
+        <Filename Value="unit1.pas"/>
+      </Position1>
+      <Position2>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="46" Column="24"/>
+      </Position2>
+      <Position3>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="31" Column="30" TopLine="18"/>
+      </Position3>
+      <Position4>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="32" Column="30" TopLine="15"/>
+      </Position4>
+      <Position5>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="55" Column="33" TopLine="31"/>
+      </Position5>
+      <Position6>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="67" Column="15" TopLine="40"/>
+      </Position6>
+      <Position7>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="62" Column="8" TopLine="40"/>
+      </Position7>
+      <Position8>
+        <Filename Value="unit2.pas"/>
+        <Caret Line="18" Column="45"/>
+      </Position8>
+      <Position9>
+        <Filename Value="unit2.pas"/>
+        <Caret Line="19" Column="45"/>
+      </Position9>
+      <Position10>
+        <Filename Value="unit2.pas"/>
+        <Caret Line="20" Column="45"/>
+      </Position10>
+      <Position11>
+        <Filename Value="unit2.pas"/>
+        <Caret Line="22" Column="45"/>
+      </Position11>
+      <Position12>
+        <Filename Value="unit2.pas"/>
+        <Caret Line="21" TopLine="5"/>
+      </Position12>
+      <Position13>
+        <Filename Value="EvenkiTrnsk.lpr"/>
+        <Caret Line="16"/>
+      </Position13>
+      <Position14>
+        <Filename Value="EvenkiTrnsk.lpr"/>
+        <Caret Line="17"/>
+      </Position14>
+      <Position15>
+        <Filename Value="EvenkiTrnsk.lpr"/>
+        <Caret Line="18"/>
+      </Position15>
+      <Position16>
+        <Filename Value="EvenkiTrnsk.lpr"/>
+        <Caret Line="19"/>
+      </Position16>
+      <Position17>
+        <Filename Value="EvenkiTrnsk.lpr"/>
+        <Caret Line="20"/>
+      </Position17>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
