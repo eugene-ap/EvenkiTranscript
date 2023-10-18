@@ -1,0 +1,18 @@
+object Form3: TForm3
+  Left = 507
+  Height = 240
+  Top = 321
+  Width = 320
+  Caption = 'Настройки'
+  ClientHeight = 240
+  ClientWidth = 320
+  LCLVersion = '1.8.0.6'
+  object Label1: TLabel
+    Left = 51
+    Height = 17
+    Top = 80
+    Width = 144
+    Caption = 'Еще не реализовано'
+    ParentColor = False
+  end
+end

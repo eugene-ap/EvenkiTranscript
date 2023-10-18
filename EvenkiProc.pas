@@ -58,7 +58,7 @@ begin
 end;//IsIotedSon
 
 Procedure Evenki_simple(var sIn,sOut:String;const iIndx:Integer;const tCtr:TControlStruct);
-const IMaxSimpleChar = 23;
+const IMaxSimpleChar = 24;
   AStrINp:array[1..IMaxSimpleChar] of String = (
     '^А$^а$',
 	'^Ā$^ā$',
@@ -82,7 +82,8 @@ const IMaxSimpleChar = 23;
 	'^Ф$^ф$',
 	'^Ц$^ц$',
 	'^Ш$^ш$',
-	'^Щ$^щ$'
+	'^Щ$^щ$',
+	'^Й$^й$'
   );
   AStrOut:array[1..IMaxSimpleChar] of String = (
     'a',
@@ -107,7 +108,8 @@ const IMaxSimpleChar = 23;
 	'f',
 	's',
 	'ʃ',
-	'ʃʲ'
+	'ʃʲ',
+	'j'
   );
 var iTmp:Integer;
 begin
